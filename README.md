@@ -17,7 +17,7 @@
 その後、次のコマンドで必要になる RubyGems をインストールします。
 
 ```
-$ gem install bundler -v 2.2.17
+$ gem install bundler -v 2.3.10
 $ bundle _2.3.10_ config set --local without 'production'
 $ bundle _2.3.10_ install
 ```
